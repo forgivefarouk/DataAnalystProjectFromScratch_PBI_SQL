@@ -1,1 +1,1 @@
-# DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis
+# DataAnalystProjectFromScratch_PBI_SQL
