@@ -36,5 +36,3 @@
 - [Download the file](https://github.com/forgivefarouk/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis/blob/main/Data%20analysis%20Sales%20Project/power%20bi%20dashboard/sales%20overviews.pbix) and open in Power BI Desktop for interactive viewing.
 - [See a screenshot](https://github.com/forgivefarouk/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis/blob/main/Data%20analysis%20Sales%20Project/sales%20overviews.pdf) of the Dashboard in pdf.
 
-
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
