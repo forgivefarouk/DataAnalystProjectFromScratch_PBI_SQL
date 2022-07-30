@@ -1,1 +1,1 @@
-# DataAnalystProjectFromScratch_PBI_SQL
+# Data Analyst Project FromScratch Power BI and SQL
